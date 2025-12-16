@@ -1,4 +1,5 @@
-the py virsion that is an improvmant of the licenced code:
+the py virsion that is an improvmant of the licenced code, and base for the net framework project that turned to space-shooter-project.
+licence:
 
 ###############################################################################
 
